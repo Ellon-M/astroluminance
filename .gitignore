@@ -1,0 +1,17 @@
+#hidden
+.*
+!/.gitignore
+
+# environment modules
+bin
+build
+__pycache__
+include
+lib
+lib64
+share
+models
+
+# misc
+
+*.cfg
