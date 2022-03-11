@@ -7,7 +7,7 @@ from astropy.io import fits
 
 # I/O
 flat_files = [f for f in glob.glob('Flats/*.fit')]
-flat_f_name = os.getcwd() + "MasterFlat.fit"
+flat_f_name = os.getcwd() + "/MasterFlat.fit"
 
 bias_f_name = os.getcwd() + "/MasterBias.fit"
 dark_f_name = os.getcwd() + "/MasterDark.fit"

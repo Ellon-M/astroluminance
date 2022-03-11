@@ -33,5 +33,5 @@ for image in image_concat:
 final_image = final_image / len(image_concat)
 
 hdu = fits.PrimaryHDU(final_image)
-print("Writing master dark: "+dark_files)
+print("Writing master dark: "+ dark_f_name)
 hdu.writeto(dark_f_name, overwrite=True)
