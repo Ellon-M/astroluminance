@@ -1,3 +1,11 @@
+import cv2
+import matplotlib.pyplot as plt
+
+#load image here
+img = cv2.imread('ngc7333_final_tvoiwu.png')
+plt.figure(figsize=(12,12))
+plt.imshow(img[:,:,::-1])
+
 # image upscaling w/ different deep learning architectures
 up_res = cv2.dnn_superres.DnnSuperResImpl_create()
 
