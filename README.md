@@ -68,4 +68,6 @@ Alignment & Stacking -> Brgihtness Equalize -> Stretching -> Deconvolution -> Da
 Files are too large for display.
 
 M13 - [here](https://res.cloudinary.com/denphvygd/image/upload/v1646966469/astroluminance/SR_ESDR_dqahhe.png)
+
+
 NGC7333 - [here](https://res.cloudinary.com/denphvygd/image/upload/v1646966469/astroluminance/SR_ESDR_2_obrynh.png)
