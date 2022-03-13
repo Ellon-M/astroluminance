@@ -46,7 +46,7 @@ is entirely situational depending on the final resolution of the image(s) at han
 
 Imaging sequence:
 
-Alignment & Stacking -> Brgihtness Equalize -> Stretching -> Deconvolution -> Darkened Background
+Alignment & Stacking -> Brightness Equalize -> Stretching -> Deconvolution -> Darkened Background
 
 <img width="250px" height="250px" src="https://res.cloudinary.com/denphvygd/image/upload/v1646957983/astroluminance/M13_firstproc_w77ews.png" /><img width="250px" height="250px" src="https://res.cloudinary.com/denphvygd/image/upload/v1646957983/astroluminance/M13_secondproc_yhordi.png" /><img width="250px" height="250px" src="https://res.cloudinary.com/denphvygd/image/upload/v1646957984/astroluminance/M13_thirdproc_pwsavj.png" />
 
